@@ -1,5 +1,6 @@
 REPLACE="
 /system/priv-app/FakeStore
+/system//product/priv-app/FakeStore
 "
 
 # disable play protect
